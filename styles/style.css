@@ -25,6 +25,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-bottom: 70px;
 }
 .content__img {
     margin: 0 auto 20px auto;
