@@ -53,3 +53,11 @@ body {
     background-color: darkgreen;
     color: #fff;
 }
+
+.content__fuck {
+    max-width: 180px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: -30px;
+    display: none;
+}
